@@ -511,7 +511,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BreadBoardPowerSupply.kicad_pro",
+    "filename": "DesktopPowerSupply.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -804,12 +804,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "BreadBoardPowerSupply.kicad_sch",
-        "name": "BreadBoardPowerSupply",
+        "filename": "DesktopPowerSupply.kicad_sch",
+        "name": "DesktopPowerSupply",
         "uuid": "09a7f727-f89a-4678-86c7-8a7d61a95f66"
       }
     ],
-    "used_designators": "H1-4,#FLG2-3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

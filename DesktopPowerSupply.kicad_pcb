@@ -3776,6 +3776,17 @@
 		(uuid "4a875ea9-ddd2-47ee-adda-74a26c9c25d7")
 	)
 	(gr_rect
+		(start 112.525 85.5)
+		(end 117.85 110.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "cfd4e354-ef37-4813-aa1a-1b5c28ae9530")
+	)
+	(gr_rect
 		(start 128.015 102.15)
 		(end 152.015 107.15)
 		(stroke
@@ -3856,8 +3867,8 @@
 			)
 		)
 	)
-	(gr_text "Breadboard Power Supply"
-		(at 115 100.25 270)
+	(gr_text "Desktop Power Supply"
+		(at 115 97.97 270)
 		(layer "F.SilkS" knockout)
 		(uuid "b602e8a0-85ce-42f8-9a80-00fe702d45fe")
 		(effects
@@ -3868,7 +3879,7 @@
 		)
 	)
 	(gr_text "Michał Głuszak\n"
-		(at 116.375 100.25 270)
+		(at 116.35 97.97 270)
 		(layer "F.SilkS" knockout)
 		(uuid "35a1ae3a-6e46-4802-865e-9e10e5ae9627")
 		(effects
