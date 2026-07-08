@@ -1,6 +1,6 @@
 # Desktop Power Supply (LM317)
 
-![3D Render](Documentation/Images/3d_render_2.jpg)
+![3D Render](Documentation/Images/3d_render.png)
 
 ## About the Project
 
@@ -39,7 +39,7 @@ Below is a preview of the finished printed circuit board design, showing the opt
 ![PCB Top Layer](Documentation/Images/PCB_r.PNG)
 
 **Bottom Layer:**
-![PCB Bottom Layer](Documentation/Images/PCB_b2.PNG)
+![PCB Bottom Layer](Documentation/Images/PCB_b.PNG)
 
 ## Bill of Materials (BOM)
 
