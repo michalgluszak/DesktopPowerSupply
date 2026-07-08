@@ -27,19 +27,19 @@ During the PCB design in KiCad, I focused on optimizing power traces and proper 
 
 ## Schematic
 
-![Schematic](Documentation/Images/schematic_2.png)
+![Schematic](Documentation/Images/schematic.png)
 
 ## PCB Design
 
 Below is a preview of the finished printed circuit board design, showing the optimization of the power traces.
 
-![PCB View](Documentation/Images/PCB_2.PNG)
+![PCB View](Documentation/Images/PCB.PNG)
 
 **Top Layer:**
-![PCB Top Layer](Documentation/Images/PCB_r_2.PNG)
+![PCB Top Layer](Documentation/Images/PCB_r.PNG)
 
 **Bottom Layer:**
-![PCB Bottom Layer](Documentation/Images/PCB_b_2.PNG)
+![PCB Bottom Layer](Documentation/Images/PCB_b2.PNG)
 
 ## Bill of Materials (BOM)
 
