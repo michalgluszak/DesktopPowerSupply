@@ -27,6 +27,8 @@ During the PCB design in KiCad, I focused on optimizing power traces and proper 
 
 ## Schematic
 
+The schematic is divided into logical blocks: DC Voltage Input, Voltage Regulator (LM317), Voltage Measure, Voltage Output, and Mounting Hole.
+
 ![Schematic](Documentation/Images/schematic.png)
 
 ## PCB Design
