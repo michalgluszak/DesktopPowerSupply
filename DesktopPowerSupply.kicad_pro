@@ -263,7 +263,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -815,7 +815,7 @@
   "sheets": [
     [
       "09a7f727-f89a-4678-86c7-8a7d61a95f66",
-      "BreadBoardPowerSupply"
+      "DesktopPowerSupply"
     ]
   ],
   "text_variables": {},
