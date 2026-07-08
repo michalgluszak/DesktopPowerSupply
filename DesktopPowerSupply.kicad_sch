@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "09a7f727-f89a-4678-86c7-8a7d61a95f66")
 	(paper "A4")
+	(title_block
+		(title "DesktopPowerSupply")
+		(date "2026-07-08")
+		(rev "v1.0")
+		(company "Michał Głuszak")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
 			(pin_names
@@ -3717,7 +3723,7 @@
 			(uuid "7ff00c16-7e60-43d1-b9c7-8fd67a10034a")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "D1")
 					(unit 1)
@@ -3797,7 +3803,7 @@
 			(uuid "28d760bf-c332-486e-9a1a-3b025540619a")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "R2")
 					(unit 1)
@@ -3875,7 +3881,7 @@
 			(uuid "04d0c4d1-5cc1-43c0-9a7d-2bf7eb6988e7")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR08")
 					(unit 1)
@@ -3973,7 +3979,7 @@
 			(uuid "e421c4af-eb37-44aa-8e52-120fd60f2358")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "J2")
 					(unit 1)
@@ -4049,7 +4055,7 @@
 			)
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "H3")
 					(unit 1)
@@ -4127,7 +4133,7 @@
 			(uuid "f4b3691e-9cc5-466d-99b7-a668ccf4f08f")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#FLG02")
 					(unit 1)
@@ -4207,7 +4213,7 @@
 			(uuid "ae870b38-cef1-470f-80a9-566fa284015f")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "R1")
 					(unit 1)
@@ -4282,7 +4288,7 @@
 			)
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "H2")
 					(unit 1)
@@ -4358,7 +4364,7 @@
 			)
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "H4")
 					(unit 1)
@@ -4436,7 +4442,7 @@
 			(uuid "78709e84-6ecc-4c03-89ff-7909dcb251c0")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR01")
 					(unit 1)
@@ -4511,7 +4517,7 @@
 			)
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "H1")
 					(unit 1)
@@ -4593,7 +4599,7 @@
 			(uuid "c85cc8b5-4a4d-4c63-bf08-2ad953cc1105")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "C1")
 					(unit 1)
@@ -4821,7 +4827,7 @@
 			(uuid "bb9f9a98-3bb3-4924-827e-29f8dfccc661")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "J1")
 					(unit 1)
@@ -4987,7 +4993,7 @@
 			(uuid "0f5744ed-8f47-4942-9de4-767e68eba249")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "S1")
 					(unit 1)
@@ -5065,7 +5071,7 @@
 			(uuid "3cb464f5-dc3e-4af9-a318-9f0aff269aac")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR04")
 					(unit 1)
@@ -5147,7 +5153,7 @@
 			(uuid "f02ebf31-5cbb-40b8-96ce-a16ab6c9f424")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "C3")
 					(unit 1)
@@ -5224,7 +5230,7 @@
 			(uuid "e195305e-be02-4f6b-a516-802609e4046d")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR09")
 					(unit 1)
@@ -5303,7 +5309,7 @@
 			(uuid "339c77a7-a9dd-48a8-accb-a57d005617f9")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR014")
 					(unit 1)
@@ -5381,7 +5387,7 @@
 			(uuid "66df2372-ed20-4248-8e5d-09160a953804")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#FLG01")
 					(unit 1)
@@ -5499,7 +5505,7 @@
 			(uuid "ba6c3b70-3287-4836-9feb-969165d33cdf")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "RV1")
 					(unit 1)
@@ -5582,7 +5588,7 @@
 			(uuid "72f49618-688c-4770-8ba2-fd1276e82bbe")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "U1")
 					(unit 1)
@@ -5684,7 +5690,7 @@
 			(uuid "2562f198-31f4-4e69-b7c6-d3bf8fbf0fe5")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "D2")
 					(unit 1)
@@ -5763,7 +5769,7 @@
 			(uuid "09ee460b-3aa3-48a4-9fed-3412ca5d34ee")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR03")
 					(unit 1)
@@ -5847,7 +5853,7 @@
 			(uuid "43fa84cb-e65d-483b-992b-9014b2a0ec11")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "U2")
 					(unit 1)
@@ -5925,7 +5931,7 @@
 			(uuid "e0c80996-4517-49d2-ad7e-c91b915a16f4")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#FLG03")
 					(unit 1)
@@ -6003,7 +6009,7 @@
 			(uuid "d56b8906-8b60-45af-836c-dc47c8e782ce")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR05")
 					(unit 1)
@@ -6081,7 +6087,7 @@
 			(uuid "6ecf1ae0-5c85-44c0-bd82-96d5ad464fb8")
 		)
 		(instances
-			(project "BreadBoardPowerSupply"
+			(project "DesktopPowerSupply"
 				(path "/09a7f727-f89a-4678-86c7-8a7d61a95f66"
 					(reference "#PWR02")
 					(unit 1)
